@@ -8,3 +8,9 @@ Problem statement: A Quick Service Restaurant has 4 walk-in refrigeration units.
 Notes:
 	1.       Refrigeration units usually have a range of set temperature instead of a single set point where lower and upper thresholds are defined.
 	2.       Ideal temperature range is defined as 1-4 degree Celsius. Percentage of temperature compliance is percentage times temperature is within ideal range.
+
+
+Dataset: Assignment.xlsx
+Solution: Comparative Analysis.pptx
+
+I have used Python and MS-Excel for analysis. Let me know if you need the ipynb and excel solutions also.
